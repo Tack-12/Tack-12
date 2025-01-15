@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm Pranaya, a passionate computer science student
 
 - **🎓 Major:** Computer Science at the University of Central Arkansas
 - **💻 Interests:** Software Development, Algorithms, Data Structures, and Open-Source Contributions
-- **📚 Currently Learning:** C# , .Net Framework , Database Management & Much more!
-- **🤖 Fun Fact:** I’m also exploring and working on a project to build a BIT TORRENT Client!
+- **📚 Currently Learning:** Java , Springboot Framework , Database Management & Much more!
 
 ---
 
