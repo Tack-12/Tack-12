@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Pranaya, a passionate computer science student
 ### 🔧 Technologies & Tools:
 
 - **Languages:** Python, C++, Java, C# , R , SQL , Qracle
-- **Tools:** Git, Visual Studio Code, Raspberry Pi , Anaconda , Visual Studio , MYSQL , Rstudio ,IntelliJ, PyCharm, Eclipse, Git, Agile .
+- **Tools:** Git, Visual Studio Code, Anaconda , Visual Studio , MYSQL , Rstudio ,IntelliJ, PyCharm, Eclipse.
 
 ---
 
